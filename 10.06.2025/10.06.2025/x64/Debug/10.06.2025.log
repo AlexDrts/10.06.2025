@@ -1,0 +1,7 @@
+﻿  10.06.2025.cpp
+C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\DZ\10.06.2025\10.06.2025.cpp(30,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\DZ\10.06.2025\10.06.2025.cpp(121,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\DZ\10.06.2025\10.06.2025.cpp(212,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\DZ\10.06.2025\10.06.2025.cpp(301,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\DZ\10.06.2025\10.06.2025.cpp(379,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  10.06.2025.vcxproj -> C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\DZ\10.06.2025\x64\Debug\10.06.2025.exe
